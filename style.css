@@ -1,0 +1,10 @@
+#link{
+    border-radius: 10px;
+}
+image{
+    background-image: cover;
+}
+div{
+    
+    background-size: contain;
+}
